@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @kevinnass
-- 👀 I’m interested in Web development/technology (vue.js,react.js,node.js,AI,C/C++,AR/VR/3D)
-- 🌱 I’m currently learning at Epitech Bénin 
-- 💞️ I’m looking to collaborate on AI web project and AR/VR/3D web project
-- 📫 How to reach me: nassarakevin@gmail.com
+👋 Hi, I’m @kevinnass, a young developper, passionate about the world of the web.
+🔽 Here you'll find some of the projects I've worked on and much more 😉.
+📫 You can contact me by e-mail: kevin.nassara@epitech.eu - nassarakevin@gmail.com.
